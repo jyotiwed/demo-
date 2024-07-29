@@ -1,4 +1,5 @@
-# demo-
-This is my first project 
+#WAP to print the fibonachi number.
+
+number=input("enter the number:")
 <br>
-Author: jyoti 
+
